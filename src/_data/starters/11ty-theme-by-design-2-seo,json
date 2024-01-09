@@ -1,7 +1,0 @@
-{
-		"url": "https://github.com/jeremyfaucher/11ty-theme-by-design-2-seo",
-		"name": "11ty-theme-by-design-2-seo",
-		"description": "Create a blog with 11ty and my starter theme. It has a SEO template, uses grid and flexbox CSS and is scalable.",
-		"author": "jeremyfaucher",
-		"demo": "https://11ty-theme-by-design-2-seo.netlify.app/"
-}
